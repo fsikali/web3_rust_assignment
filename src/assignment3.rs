@@ -1,4 +1,4 @@
-// Program that takes in an input from the terminal and subtracts, adds, multiplies and divides any numbero
+// Program that takes in an input from the terminal and subtracts, adds, multiplies and divides any number
 
 use std::io;
 
